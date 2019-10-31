@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaConsole", "ShaConsole\ShaConsole.csproj", "{BCF2BD84-F60B-4401-BE6D-57ED74661C69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF2BD84-F60B-4401-BE6D-57ED74661C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF2BD84-F60B-4401-BE6D-57ED74661C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF2BD84-F60B-4401-BE6D-57ED74661C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF2BD84-F60B-4401-BE6D-57ED74661C69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0CCCB59-25FA-42E4-9F1D-52801FAA9CC9}
+	EndGlobalSection
+EndGlobal
