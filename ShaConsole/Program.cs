@@ -20,7 +20,6 @@ namespace ShaConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             string password = "secret";
             Console.WriteLine(password.Sha256());
         }
