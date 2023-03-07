@@ -18,10 +18,12 @@ namespace ShaConsole
 
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            string password = "secret";
+            Console.WriteLine("请输入密码：");
+            string password = Console.ReadLine();
             Console.WriteLine(password.Sha256());
+            Console.ReadKey();
         }
     }
 }
